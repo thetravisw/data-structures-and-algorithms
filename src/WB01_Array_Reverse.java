@@ -2,10 +2,10 @@ import java.lang.reflect.Array;
 
 public class WB01_Array_Reverse {
     public static void main(String[] args) {
-        
+
 }
 
-    public static void reverseArray (int[] arr) {
+    public static int[] reverseArray (int[] arr) {
 
         int size = arr.length;
         int[] output = new int [size];
@@ -16,7 +16,7 @@ public class WB01_Array_Reverse {
             index--;
         }
 
-
+        return output;
     }
 }
 
