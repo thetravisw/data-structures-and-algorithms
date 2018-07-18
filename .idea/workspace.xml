@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f1e86a8-2000-4f90-848d-f9b101963a68" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Tests/Whiteboard06_Append_LinkedLists/ListNodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Whiteboard07_nth_from_end/Whiteboard_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/Whiteboard06_Append_LinkedLists/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/Whiteboard06_Append_LinkedLists/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Whiteboard06_Append_LinkedLists/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Whiteboard06_Append_LinkedLists/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Whiteboard_05B_NthFib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Whiteboard_05B_NthFib.java" afterDir="false" />
-    </list>
+    <list default="true" id="5f1e86a8-2000-4f90-848d-f9b101963a68" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -377,7 +370,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
