@@ -1,12 +1,14 @@
 package Whiteboard06_Append_LinkedLists;
 
 
+import java.util.LinkedList;
 import java.util.List;
 
 public class ListNode {
     public static void main(String[]args){
 
     }
+
 
     ///  ==================    Begin WB07
 
@@ -27,9 +29,9 @@ public class ListNode {
     ///  ===================  End WB07
 
 
-    protected int data;
-    protected ListNode link;
-    protected ListNode root = this;
+    public int data;
+    public ListNode link;
+    public ListNode root = this;
 
 
     //Constructor to Build nodes
