@@ -39,4 +39,35 @@ class ListNodeTest {
         assertEquals(42, TestList.NthFromEnd(0).data);
     }
 
+    @Test
+    void ContainsLoops1(){
+
+        //  Setting up a circular list
+        ListNode newnode = new ListNode(5, TestList.root);
+        ListNode current= TestList.root;
+        while (current.link != null){
+            current = current.link;
+        }
+        current.link= newnode;
+        assertTrue(TestList.hasLoop());
+    }
+
+    @Test
+    void ContainsLoops2(){
+        assertFalse(TestList.hasLoop());
+    }
+
+    @Test
+    void ContainsLoops3(){
+        ListNode newlist = new ListNode(5);
+        newlist.link=newlist;
+        assertTrue(newlist.hasLoop());
+    }
+
+    @Test
+    void ContainsLoops4(){
+        ListNode newlist = new ListNode(5);
+        assertFalse(newlist.hasLoop());
+    }
+
 }

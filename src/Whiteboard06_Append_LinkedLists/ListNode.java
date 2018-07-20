@@ -1,6 +1,7 @@
 package Whiteboard06_Append_LinkedLists;
 
 
+import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -8,6 +9,22 @@ public class ListNode {
     public static void main(String[]args){
 
     }
+
+    ///   Begin WB09
+    
+    public boolean hasLoop() {
+        ListNode current = this.root;
+        HashSet seen = new HashSet();
+        Boolean loops = false;
+        while (current.link != null && loops == false){
+            loops = seen.contains(current);
+            seen.add(current);
+            current=current.link;
+        }
+        return loops;
+    }
+
+    ///  End WB 09
 
 
     ///  ==================    Begin WB07

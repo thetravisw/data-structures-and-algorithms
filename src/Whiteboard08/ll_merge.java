@@ -1,32 +1,30 @@
-package Whiteboard08;
-
-import Whiteboard06_Append_LinkedLists.ListNode;
-
-public class ll_merge {
-    public static void main(String[] args) {
-    }
-
-
-    public static ListNode ll_merge_lists(ListNode a, ListNode b){
-        a=a.root;
-        b=b.root;
-        ListNode results = a;
-        results.link=b;
-        results=results.link;
-
-//        while (a.link != null || b.link != null ) {
-            if (a.link != null) {
-                results.link = a.link;
-                a = a.link;
-                results = results.link;
-            }
-            if (b.link != null) {
-                results.link = b.link;
-                b = b.link;
-                results = results.link;
-            }
+//package Whiteboard08;
+//
+//import Whiteboard06_Append_LinkedLists.ListNode;
+//
+//import java.util.LinkedList;
+//import java.util.List;
+//
+//public class ll_merge {
+//    public static void main(String[] args) {
+//        ListNode a = new ListNode(1);
+//        ListNode b = new ListNode(51);
+//        a.Append(2);
+//        a.Append(3);
+//        b.Append(52);
+//        b.Append(53);
+//
+//        ListNode results = ll_merge_lists(a,b);
+//
+//        while (results.link != null){
+//            System.out.println(results.data);
 //        }
-        return results.root;
-    }
-}
-
+//    }
+//
+//
+//    public static ListNode ll_merge_lists( ListNode a, ListNode b){
+//
+//        return results;
+//    }
+//}
+//
