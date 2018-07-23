@@ -10,7 +10,7 @@ class ListNodeTest {
     ListNode TestList = new ListNode(5);
 
     @BeforeEach
-    void setup(){
+    void setup() {
         TestList.Append(7);
         TestList.Append(4);
         TestList.Append(156);
@@ -18,13 +18,13 @@ class ListNodeTest {
     }
 
 
-    @Test
-    void RedTest (){
-        assertTrue(false);
-    }
+//    @Test
+//    void RedTest() {
+//        assertTrue(false);
+//    }
 
     @Test
-    void GreenTest(){
+    void GreenTest() {
         assertTrue(true);
     }
 
@@ -35,39 +35,57 @@ class ListNodeTest {
 
 
     @Test
-    void nthFromEndGrabEnd(){
+    void nthFromEndGrabEnd() {
         assertEquals(42, TestList.NthFromEnd(0).data);
     }
 
     @Test
-    void ContainsLoops1(){
+    void ContainsLoops1() {
 
         //  Setting up a circular list
         ListNode newnode = new ListNode(5, TestList.root);
-        ListNode current= TestList.root;
-        while (current.link != null){
+        ListNode current = TestList.root;
+        while (current.link != null) {
             current = current.link;
         }
-        current.link= newnode;
+        current.link = newnode;
         assertTrue(TestList.hasLoop());
     }
 
     @Test
-    void ContainsLoops2(){
+    void ContainsLoops2() {
         assertFalse(TestList.hasLoop());
     }
 
     @Test
-    void ContainsLoops3(){
+    void ContainsLoops3() {
         ListNode newlist = new ListNode(5);
-        newlist.link=newlist;
+        newlist.link = newlist;
         assertTrue(newlist.hasLoop());
     }
 
     @Test
-    void ContainsLoops4(){
+    void ContainsLoops4() {
         ListNode newlist = new ListNode(5);
         assertFalse(newlist.hasLoop());
     }
 
+    @Test
+    void ll_Reverse() {
+        ListNode a = TestList.ll_Reverse();
+        assertEquals(156, a.link.data);
+    }
+
+    @Test
+    void llReverse1() {
+        ListNode one = new ListNode(5);
+        assertEquals(5, one.ll_Reverse().data);
+    }
+
+    @Test
+    void llReverse2() {
+        ListNode two = new ListNode(19);
+        two.Append(18);
+        assertEquals(18, two.ll_Reverse().data);
+    }
 }
