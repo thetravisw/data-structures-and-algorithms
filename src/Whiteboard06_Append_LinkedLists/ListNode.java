@@ -10,8 +10,28 @@ public class ListNode {
 
     }
 
-    ///   Begin WB09
-    
+    ///  Begin WB10
+    public ListNode ll_Reverse () {
+        ListNode a = this.root;
+        ListNode b = a.link;
+        if (a.link==null) return this;
+        ListNode c = b.link;
+
+        while (b.link != null) {
+            b.link =a;
+            a= b;
+            b=c;
+            c=c.link;
+        }
+
+        b.link =a;
+        b= b.root;
+        return b;
+    }
+
+
+        ///   Begin WB09
+
     public boolean hasLoop() {
         ListNode current = this.root;
         HashSet seen = new HashSet();
