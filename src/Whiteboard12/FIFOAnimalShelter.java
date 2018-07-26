@@ -4,10 +4,11 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class FIFOAnimalShelter{
-    Queue<Pet> dogs = new LinkedList<>();
-    Queue<Pet> cats = new LinkedList<>();
 
-    public Pet adopt () {
+    static Queue<Pet> dogs = new LinkedList<>();
+    static Queue<Pet> cats = new LinkedList<>();
+
+    public static Pet adopt () {
         Pet dog = dogs.peek();
         Pet cat = cats.peek();
 
@@ -31,7 +32,7 @@ public class FIFOAnimalShelter{
 
     }
 
-    public Pet adopt (String animal) {
+    public static Pet adopt (String animal) {
         if (animal.toLowerCase() == "cat" && !cats.isEmpty())
         {
             return cats.remove();
