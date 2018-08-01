@@ -13,10 +13,13 @@ public class FizzbuzzTree {
         tree.add(42);
         tree.add(90);
         tree.add(124);
-        tree.add(135);
+        tree.add(130);
         tree.add(7);
 
+        BinaryTree noll = new BinaryTree();
+
         fizzBuzzTree(tree);
+        fizzBuzzTree(noll);
     }
 
     public static void fizzBuzzTree(BinaryTree tree){
