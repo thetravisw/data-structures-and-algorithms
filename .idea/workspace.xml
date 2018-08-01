@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f1e86a8-2000-4f90-848d-f9b101963a68" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/FizzbuzzTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/tree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/BreadthFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/tree/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/Whiteboard_14_MaxStack/maxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Whiteboard_14_MaxStack/maxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/Whiteboard16_Fizzbuzz_Tree/FizzbuzzTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/Whiteboard16_Fizzbuzz_Tree/FizzbuzzTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/FizzbuzzTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/FizzbuzzTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,27 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FIFOAnimalShelterTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tests/Whiteboard12/FIFOAnimalShelterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MultiBracketValidation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Whiteboard13_MultiBracket_Validation/MultiBracketValidation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="max.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Whiteboard_14_MaxStack/max.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,16 +40,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzbuzzTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FizzbuzzTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/FizzbuzzTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="306">
+              <caret line="19" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#521#522#0" expanded="true" />
                 <element signature="e#565#566#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BreadthFirst.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/BreadthFirst.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="57" column="47" lean-forward="true" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/tree/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/tree/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -167,6 +175,8 @@
         <option value="$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/Tests/Whiteboard_14_MaxStack/maxTest.java" />
         <option value="$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/FizzbuzzTree.java" />
+        <option value="$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/BreadthFirst.java" />
       </list>
     </option>
   </component>
@@ -211,8 +221,20 @@
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Whiteboard16_Fizzbuzz_Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Whiteboard17_BreadthFirstTraversal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Whiteboard17_BreadthFirstTraversal" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Whiteboard_14_MaxStack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -268,6 +290,7 @@
       <recent name="groovy.util.GroovyTestCase" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\H_K_K\codefellows\401\data-structures-and-algorithms\src\Whiteboard17_BreadthFirstTraversal" />
       <recent name="C:\Users\H_K_K\codefellows\401\data-structures-and-algorithms\src\Whiteboard16_Fizzbuzz_Tree" />
       <recent name="C:\Users\H_K_K\codefellows\401\data-structures-and-algorithms\src\Whiteboard11_queue_with_stacks" />
       <recent name="C:\Users\H_K_K\codefellows\401\data-structures-and-algorithms\src\Whiteboard08" />
@@ -286,7 +309,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FizzbuzzTree">
+  <component name="RunManager" selected="Application.BreadthFirst">
+    <configuration name="BreadthFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Whiteboard17_BreadthFirstTraversal.BreadthFirst" />
+      <module name="data-structures-and-algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Whiteboard17_BreadthFirstTraversal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="FizzbuzzTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Whiteboard16_Fizzbuzz_Tree.FizzbuzzTree" />
       <module name="data-structures-and-algorithms" />
@@ -311,29 +345,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="FIFOAnimalShelterTest.adopt3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data-structures-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Whiteboard12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Whiteboard12" />
-      <option name="MAIN_CLASS_NAME" value="Whiteboard12.FIFOAnimalShelterTest" />
-      <option name="METHOD_NAME" value="adopt3" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="MultiBracketValidationTest.multiBracketValidation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
@@ -420,19 +431,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.FIFOAnimalShelterTest.adopt3" />
       <item itemvalue="JUnit.MultiBracketValidationTest.multiBracketValidation" />
       <item itemvalue="Application.MultiBracketValidation" />
       <item itemvalue="JUnit.maxTest.test1" />
       <item itemvalue="Application.FizzbuzzTree" />
+      <item itemvalue="Application.BreadthFirst" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BreadthFirst" />
         <item itemvalue="Application.FizzbuzzTree" />
         <item itemvalue="JUnit.maxTest.test1" />
         <item itemvalue="Application.MultiBracketValidation" />
         <item itemvalue="JUnit.MultiBracketValidationTest.multiBracketValidation" />
-        <item itemvalue="JUnit.FIFOAnimalShelterTest.adopt3" />
       </list>
     </recent_temporary>
   </component>
@@ -521,26 +532,19 @@
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/FizzbuzzTree.java</url>
+          <line>28</line>
+          <properties class="Whiteboard16_Fizzbuzz_Tree.FizzbuzzTree" method="fizzBuzzTree">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="33" />
+      <option name="time" value="38" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Whiteboard06_Append_LinkedLists/Whiteboard06_LL_Insertion.java" />
-    <entry file="file://$PROJECT_DIR$/src/WB01_Array_Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Whiteboard03_BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Whiteboard04_LargestProduct/Whiteboard04_LargestProduct.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -691,6 +695,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1326">
           <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="83" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -808,12 +815,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/FizzbuzzTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="306">
+          <caret line="19" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#521#522#0" expanded="true" />
             <element signature="e#565#566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/tree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/BreadthFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="57" column="47" lean-forward="true" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
           </folding>
         </state>
       </provider>
