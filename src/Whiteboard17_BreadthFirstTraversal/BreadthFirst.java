@@ -15,6 +15,7 @@ public class BreadthFirst {
         tree.add(42);
         tree.add(90);
         tree.add(124);
+        tree.add(30);
         tree.add(130);
         tree.add(7);
 
@@ -47,15 +48,15 @@ public class BreadthFirst {
     }
 
     public static void BreadthFirstRecursive (BinaryTree tree) {
-        Queue qq = new LinkedList();
+        Queue<TreeNode> qq = new LinkedList();
         qq.add(tree.getRoot());
         BreadthFirstRecursive(qq);
     }
 
-    private static void BreadthFirstRecursive(Queue qq){
+    private static void BreadthFirstRecursive(Queue<TreeNode> qq){
         if (qq.isEmpty()) return;
 
-        TreeNode node = (TreeNode) qq.remove();
+        TreeNode node = qq.remove();
         System.out.println(node.data);
         if (node.left != null) qq.add(node.left);
         if (node.right != null) qq.add(node.right);
