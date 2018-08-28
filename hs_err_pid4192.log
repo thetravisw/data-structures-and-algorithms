@@ -16,7 +16,7 @@
 
 ---------------  S U M M A R Y ------------
 
-Command Line: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:49660,suspend=y,server=n -javaagent:C:\Users\H_K_K\.IdeaIC2018.1\system\captureAgent\debugger-agent.jar=file:/C:/Users/H_K_K/AppData/Local/Temp/capture.props -Dfile.encoding=UTF-8 Whiteboard05_Array_rotate
+Command Line: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:49660,suspend=y,server=n -javaagent:C:\Users\H_K_K\.IdeaIC2018.1\system\captureAgent\debugger-agent.jar=file:/C:/Users/H_K_K/AppData/Local/Temp/capture.props -Dfile.encoding=UTF-8 OldStuff.Whiteboard05_Array_rotate
 
 Host: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, 8 cores, 7G,  Windows 10 , 64 bit Build 17134 (10.0.17134.1)
 Time: Fri Jul 13 13:35:50 2018 Pacific Daylight Time elapsed time: 92 seconds (0d 0h 1m 32s)
@@ -325,8 +325,8 @@ Event: 0.231 Thread 0x000002055eae7800 Uncommon trap: reason=unstable_if action=
 Event: 0.293 Thread 0x000002055eae7800 Uncommon trap: reason=unstable_if action=reinterpret pc=0x0000020573142f7c method=java.lang.String.charAt(I)C @ 4 c2
 
 Classes redefined (2 events):
-Event: 50.572 Thread 0x000002050273f800 redefined class name=Whiteboard05_Array_rotate, count=1
-Event: 92.431 Thread 0x000002050273f800 redefined class name=Whiteboard05_Array_rotate, count=2
+Event: 50.572 Thread 0x000002050273f800 redefined class name=OldStuff.Whiteboard05_Array_rotate, count=1
+Event: 92.431 Thread 0x000002050273f800 redefined class name=OldStuff.Whiteboard05_Array_rotate, count=2
 
 Internal exceptions (0 events):
 No events
@@ -401,7 +401,7 @@ symbol engine: initialized successfully - sym options: 0x614 - pdb path: .;C:\Pr
 
 VM Arguments:
 jvm_args: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:49660,suspend=y,server=n -javaagent:C:\Users\H_K_K\.IdeaIC2018.1\system\captureAgent\debugger-agent.jar=file:/C:/Users/H_K_K/AppData/Local/Temp/capture.props -Dfile.encoding=UTF-8 
-java_command: Whiteboard05_Array_rotate
+java_command: OldStuff.Whiteboard05_Array_rotate
 java_class_path (initial): C:\Users\H_K_K\codefellows\401\data-structures-and-algorithms\out\production\data-structures-and-algorithms;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.1.5\lib\groovy-all-2.4.12.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.1.5\lib\idea_rt.jar
 Launcher Type: SUN_STANDARD
 

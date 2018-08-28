@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f1e86a8-2000-4f90-848d-f9b101963a68" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Tests/Whiteboard18_FindMax/find_maximum_valueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Whiteboard18_FindMax/find_maximum_value.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/Whiteboard17_BreadthFirstTraversal/BreadthFirst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/Whiteboard17_BreadthFirstTraversal/BreadthFirst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/BreadthFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/BreadthFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Whiteboard18_FindMax/find_maximum_valueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Whiteboard18_FindMax/find_maximum_valueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/data-structures-and-algorithms/Whiteboard18_FindMax/find_maximum_valueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-structures-and-algorithms/Whiteboard18_FindMax/find_maximum_valueTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,74 +16,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="maxTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tests/Whiteboard_14_MaxStack/maxTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="3" selection-start-line="19" selection-end-line="19" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#496#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FizzbuzzTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/FizzbuzzTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" selection-start-line="8" selection-start-column="8" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="max.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Whiteboard_14_MaxStack/max.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BreadthFirst.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/BreadthFirst.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="find_maximum_value.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Whiteboard18_FindMax/find_maximum_value.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="find_maximum_valueTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tests/Whiteboard18_FindMax/find_maximum_valueTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+            <state>
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,31 +28,96 @@
         </entry>
       </file>
       <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/tree/BinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/tree/TreeNode.java">
+        <entry file="file://$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/tree/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Whiteboard03_BinarySearch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Whiteboard03_BinarySearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="630">
+              <caret line="32" selection-start-line="5" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/tree/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Whiteboard04_LargestProduct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Whiteboard04_LargestProduct/Whiteboard04_LargestProduct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="max.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Whiteboard_14_MaxStack/max.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BreadthFirst.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/BreadthFirst.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="742">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="find_maximum_value.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Whiteboard18_FindMax/find_maximum_value.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="find_maximum_valueTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/Whiteboard18_FindMax/find_maximum_valueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractPipeline.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/stream/AbstractPipeline.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9303">
+              <caret line="473" selection-start-line="473" selection-end-line="473" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/tree/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="48" selection-start-column="48" selection-end-column="48" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -151,7 +150,6 @@
         <option value="$PROJECT_DIR$/src/Whiteboard02_insertShiftArrayTest.java" />
         <option value="$PROJECT_DIR$/src/Whiteboard04_LargestProduct.java" />
         <option value="$PROJECT_DIR$/src/Whiteboard04_LargestProductTest.java" />
-        <option value="$PROJECT_DIR$/src/Whiteboard04_LargestProduct/Whiteboard04_LargestProduct.java" />
         <option value="$PROJECT_DIR$/src/Whiteboard04_LargestProduct/Tests/Whiteboard04_LargestProductTest.java" />
         <option value="$PROJECT_DIR$/src/Whiteboard04_LargestProduct/Whiteboard04_LargestProductTest.java" />
         <option value="$PROJECT_DIR$/src/Whiteboard02_insertShiftArray.java" />
@@ -191,6 +189,7 @@
         <option value="$PROJECT_DIR$/src/Whiteboard18_FindMax/tree/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/Whiteboard18_FindMax/find_maximum_value.java" />
         <option value="$PROJECT_DIR$/Tests/Whiteboard18_FindMax/find_maximum_valueTest.java" />
+        <option value="$PROJECT_DIR$/src/Whiteboard04_LargestProduct/Whiteboard04_LargestProduct.java" />
       </list>
     </option>
   </component>
@@ -201,8 +200,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
+    <option name="x" value="331" />
+    <option name="width" value="1148" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -213,6 +212,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,24 +224,6 @@
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Whiteboard17_BreadthFirstTraversal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Whiteboard18_FindMax" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Whiteboard_14_MaxStack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -259,7 +241,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -272,7 +253,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../10-album-art-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CaesarCypher" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -318,23 +299,23 @@
   </component>
   <component name="RunManager" selected="JUnit.find_maximum_valueTest.testmax">
     <configuration name="BreadthFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Whiteboard17_BreadthFirstTraversal.BreadthFirst" />
+      <option name="MAIN_CLASS_NAME" value="OldStuff.Whiteboard17_BreadthFirstTraversal.BreadthFirst" />
       <module name="data-structures-and-algorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Whiteboard17_BreadthFirstTraversal.*" />
+          <option name="PATTERN" value="OldStuff.Whiteboard17_BreadthFirstTraversal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="FizzbuzzTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Whiteboard16_Fizzbuzz_Tree.FizzbuzzTree" />
+      <option name="MAIN_CLASS_NAME" value="OldStuff.Whiteboard16_Fizzbuzz_Tree.FizzbuzzTree" />
       <module name="data-structures-and-algorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Whiteboard16_Fizzbuzz_Tree.*" />
+          <option name="PATTERN" value="OldStuff.Whiteboard16_Fizzbuzz_Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,12 +324,12 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="find_maximum_value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Whiteboard18_FindMax.find_maximum_value" />
+      <option name="MAIN_CLASS_NAME" value="OldStuff.Whiteboard18_FindMax.find_maximum_value" />
       <module name="data-structures-and-algorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Whiteboard18_FindMax.*" />
+          <option name="PATTERN" value="OldStuff.Whiteboard18_FindMax.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,14 +354,14 @@
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Whiteboard18_FindMax.*" />
+          <option name="PATTERN" value="OldStuff.Whiteboard18_FindMax.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Whiteboard18_FindMax" />
-      <option name="MAIN_CLASS_NAME" value="Whiteboard18_FindMax.find_maximum_valueTest" />
+      <option name="PACKAGE_NAME" value="OldStuff.Whiteboard18_FindMax" />
+      <option name="MAIN_CLASS_NAME" value="OldStuff.Whiteboard18_FindMax.find_maximum_valueTest" />
       <option name="METHOD_NAME" value="testmax" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -396,7 +377,7 @@
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Whiteboard_14_MaxStack.*" />
+          <option name="PATTERN" value="OldStuff.Whiteboard_14_MaxStack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -468,15 +449,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FIFOAnimalShelterTest_adopt - 2018.07.25 at 14h 24m 20s.xml">
-      <configuration name="FIFOAnimalShelterTest.adopt" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FIFOAnimalShelterTest_adopt2 - 2018.07.25 at 14h 27m 31s.xml">
-      <configuration name="FIFOAnimalShelterTest.adopt2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FIFOAnimalShelterTest_adopt2 - 2018.07.25 at 14h 27m 59s.xml">
-      <configuration name="FIFOAnimalShelterTest.adopt2" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FIFOAnimalShelterTest_adopt3 - 2018.07.25 at 15h 06m 34s.xml">
       <configuration name="FIFOAnimalShelterTest.adopt3" configurationId="JUnit" />
     </history-entry>
@@ -498,23 +470,29 @@
     <history-entry file="MultiBracketValidationTest_multiBracketValidation - 2018.07.26 at 12h 31m 59s.xml">
       <configuration name="MultiBracketValidationTest.multiBracketValidation" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="find_maximum_valueTest_testmax - 2018.08.02 at 13h 56m 13s.xml">
+      <configuration name="find_maximum_valueTest.testmax" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="find_maximum_valueTest_testmax - 2018.08.02 at 13h 56m 44s.xml">
+      <configuration name="find_maximum_valueTest.testmax" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="find_maximum_valueTest_testmax - 2018.08.02 at 14h 10m 58s.xml">
+      <configuration name="find_maximum_valueTest.testmax" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3267974" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50104165" side_tool="true" weight="0.32624868" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.0" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49895832" visible="true" weight="0.44771242" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49895832" weight="0.44771242" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3278867" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20461869" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -523,9 +501,35 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3267974" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3278867" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49895832" visible="true" weight="0.44771242" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3278867" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50104165" side_tool="true" weight="0.32624868" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3267974" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.0" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -552,13 +556,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Whiteboard05_Array_rotate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/WB01_Array_Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -601,9 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-start-column="2" selection-end-line="21" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#506#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -639,16 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Whiteboard04_LargestProduct/Whiteboard04_LargestProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tests/Whiteboard08/ll_mergeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -668,9 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1326">
           <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="83" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,31 +710,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/tree/FizzbuzzTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/tree/FizzbuzzTree.java" />
     <entry file="file://$PROJECT_DIR$/Tests/Whiteboard13_MultiBracket_Validation/MultiBracketValidationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/tree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Whiteboard11_queue_with_stacks/DataNode.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -773,26 +739,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="3" selection-start-line="19" selection-end-line="19" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#496#0" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/FizzbuzzTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" selection-start-line="8" selection-start-column="8" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/tree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/tree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -801,13 +749,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Whiteboard18_FindMax/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Whiteboard18_FindMax/tree/BinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/Whiteboard18_FindMax/tree/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/Whiteboard18_FindMax/tree/BinaryTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/Whiteboard_14_MaxStack/max.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        <state relative-caret-position="147">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/tree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/stream/AbstractPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9303">
+          <caret line="473" selection-start-line="473" selection-end-line="473" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Whiteboard18_FindMax/find_maximum_valueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/FizzbuzzTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/tree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="32" selection-start-line="5" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Whiteboard16_Fizzbuzz_Tree/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Whiteboard04_LargestProduct/Whiteboard04_LargestProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Whiteboard18_FindMax/find_maximum_value.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -816,39 +827,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Whiteboard17_BreadthFirstTraversal/BreadthFirst.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Whiteboard_14_MaxStack/max.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Whiteboard18_FindMax/find_maximum_value.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/Whiteboard18_FindMax/find_maximum_valueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        <state relative-caret-position="742">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
